@@ -11,10 +11,5 @@ Dev Front-End<br>Atuo na área de tecnologia há um ano<br>Experiência em desen
 ![](https://nirzak-streak-stats.vercel.app/?user=leonardosip&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosip&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=leonardosip&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
