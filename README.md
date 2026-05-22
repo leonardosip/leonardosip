@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dev Front-End<br>Atuo na área de tecnologia há um ano<br>Experiência em desenvolvimento com React.js, HTML, CSS e Node.<br>Formado em Análise e Desenvolvimento de Sistemas.
+Dev Full Stack<br>Atualmente na plataforma nobis<br>Experiência em desenvolvimento com React.js, HTML, CSS e Node.<br>Formado em Análise e Desenvolvimento de Sistemas.
 
 
 ## 🌐 Socials:
